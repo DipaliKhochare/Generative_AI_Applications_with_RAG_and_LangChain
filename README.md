@@ -1,2 +1,3 @@
 # Generative_AI_Applications_with_RAG_and_LangChain
 Indian Labour Codes QA Assistant
+# Generative_AI_Applications_with_RAG_and_LangChain
